@@ -10,7 +10,7 @@
 🔭 I’m currently a freelancer working on upwork client.
 
 
-💗 I am passionate about design, technology, crochet and macramé.
+💗 I am passionate about web dev, AI , Software Development, Soccer and Gaming.
 
 
 ## 📫 How to reach me:
@@ -23,6 +23,7 @@
 <a href="https://github.com/EYOELTEKLE/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EYOELTEKLE&count_private=true&show_icons=true&theme=jolly" />
 </a>
+<br>
 <a href="https://github.com/EYOELTEKLE/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EYOELTEKLE&layout=compact&theme=jolly" />
 </a>
