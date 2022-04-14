@@ -18,13 +18,12 @@
 <a href="https://www.linkedin.com/in/eyoel-tekle-613090203//">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-</br>
 ## 🌈 Github Stats:
 
 <a href="https://github.com/EYOELTEKLE/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EYOELTEKLE&count_private=true&show_icons=true&theme=jolly" />
 </a>
-</br>
+
 <a href="https://github.com/EYOELTEKLE/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EYOELTEKLE&layout=compact&theme=jolly" />
 </a>
