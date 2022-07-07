@@ -1,6 +1,8 @@
 
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 👩‍💻  I am a Computer and Software Engineer from Addis Ababa, Ethiopia.
 
 
