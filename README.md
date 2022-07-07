@@ -1,7 +1,6 @@
 
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=EYOELTEKLE&label=PROFILE+VIEWS)
 
 👩‍💻  I am a Computer and Software Engineer from Addis Ababa, Ethiopia.
 
