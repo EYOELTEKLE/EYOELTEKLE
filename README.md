@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+## ![](https://komarev.com/ghpvc/?username=EYOELTEKLE)
+
 ## 🌈 Github Stats:
 
 <a href="https://github.com/EYOELTEKLE/github-readme-stats">
