@@ -13,7 +13,7 @@
 
 💗 I am passionate about web dev, AI , Software Development, Soccer and Gaming.
 
-##! [](https://komarev.com/ghpvc/?username=EYOELTEKLE&label=PROFILE+VIEWS)
+## ![](https://komarev.com/ghpvc/?username=EYOELTEKLE&label=PROFILE+VIEWS)
 
 ## 📫 How to reach me:
 
