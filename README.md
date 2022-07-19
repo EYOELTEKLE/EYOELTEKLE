@@ -8,7 +8,7 @@
 🌱  I am currently learning web development, Machine learning and Data Science.
 
 
-🔭 I’m currently a freelancer working on upwork client.
+🔭 I’m currently a freelancer working on Gebeya.
 
 
 💗 I am passionate about web dev, AI , Software Development, Soccer and Gaming.
