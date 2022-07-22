@@ -25,12 +25,12 @@
 ## 🌈 Github Stats:
 
 <a href="https://github.com/EYOELTEKLE/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EYOELTEKLE&count_private=true&show_icons=true&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EYOELTEKLE&count_private=true&show_icons=true&theme=jolly" />
 </a>
 
 
 <a href="https://github.com/EYOELTEKLE/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EYOELTEKLE&layout=compact&theme=chartreuse-dark" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EYOELTEKLE&layout=compact&theme=jolly" />
 </a>
 
 ## Technologies
