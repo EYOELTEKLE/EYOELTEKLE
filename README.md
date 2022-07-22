@@ -29,7 +29,7 @@
 </a>
 
 <a href="https://github.com/EYOELTEKLE/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EYOELTEKLE&layout=compact&theme=jolly" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EYOELTEKLE&layout=compact&theme=jolly" />
 </a>
 
 ## Technologies
