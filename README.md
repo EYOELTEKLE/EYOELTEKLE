@@ -10,6 +10,9 @@
 
 💗 I am passionate about web dev, AI , Software Development, Soccer and Gaming.
 
+## Portfolio
+<a href="https://portfolio-gj7a6gzix-eyoeltekle.vercel.app/">Link</a>
+
 ## ![](https://komarev.com/ghpvc/?username=EYOELTEKLE&label=PROFILE+VIEWS)
 
 ## 📫 How to reach me:
